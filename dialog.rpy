@@ -5,7 +5,7 @@ init 5 python:
             eventlabel="monika_vns_intro_final",
             prompt="Introduction to Visual Novels",
             category=['Visual Novels'],
-            pool=True,
+            random=True,
             unlocked=True
         )
     )
